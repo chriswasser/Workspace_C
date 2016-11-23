@@ -7,5 +7,5 @@ int main() {
     cout << "What is your name?" << endl;
     cin >> name;
     cout << "Hello " << name << "!" << endl;
-    return EXIT_SUCCESS;
+    return 0;
 }
