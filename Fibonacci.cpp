@@ -16,7 +16,9 @@ long long fibonacci(int n) {
 }
 
 int main() {
+    cout << "------------------------------------------" << endl;
     cout << "welcome to the fibonacci number generator:" << endl;
+    cout << "------------------------------------------" << endl;
     while(true) {
         cout << "please enter your desired number:" << endl;
         int n;
