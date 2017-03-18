@@ -1,4 +1,5 @@
 # Repository for exercises done during the C++ course
+
 | File               | What it does                                                                      |
 | ------------------ | --------------------------------------------------------------------------------- |
 | `Bruch.cpp`        | class which represents a fraction                                                 |
